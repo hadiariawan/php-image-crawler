@@ -7,3 +7,5 @@ phpQuery is a server-side, chainable, CSS3 selector driven Document Object Model
 For more information regarding phpquery, please check link below.
 https://code.google.com/p/phpquery/
 
+Example :
+Crawl images tag and download the shop logo from bukalapak.com and tokopedia.com
